@@ -743,6 +743,10 @@
         "listed": true,
         "version": "2.0.10"
     },
+    "LuaCSharp": {
+        "listed": true,
+        "version": "0.4.2"
+    },
     "MathNet.Numerics": {
         "listed": true,
         "version": "4.0.0"
